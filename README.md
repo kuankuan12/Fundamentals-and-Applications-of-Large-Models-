@@ -5,8 +5,10 @@
 --来自百度网盘超级会员v4的分享
 
 web测试
-# `python>=3.10` 安装 `pip install streamlit`
-# cd scripts
+`python>=3.10` 安装 `pip install streamlit`
+cd scripts
+
+
 streamlit run web_demo.py
 命令行模式测试
 python eval_llm.py --weight *（full_sft或 pretrain/dpo/ppo/grpo...） 
